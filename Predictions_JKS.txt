@@ -1,0 +1,2 @@
+Prediction: Logistic Regression will perform better than Random Forest Classifier. 
+We converted all the categorical data into numeric and that suits Logistic Regression more.
